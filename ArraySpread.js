@@ -23,3 +23,4 @@ console.log(maxValue);
 // Find MAX MIN use Spread(...)
 const minValue = Math.min(...arr2);
 console.log(minValue);
+
