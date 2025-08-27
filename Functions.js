@@ -7,8 +7,19 @@
 
 
 // Arrow Function
-let arrowSum = (a,b) =>{
-    return a+b;
+// let arrowSum = (a,b) =>{
+//     return a+b;
+// }
+// let sum = arrowSum(1,5);
+// console.log(sum);
+
+
+
+function doubleIt(n){
+    const doubleValue = 2 * n;
+    console.log(n,doubleValue);
 }
-let sum = arrowSum(1,5);
-console.log(sum);
+
+doubleIt(2);
+console.log('---------------');
+doubleIt(10);

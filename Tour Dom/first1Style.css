@@ -1,0 +1,25 @@
+li{
+    color: blueviolet;
+}
+
+h1{
+    color: gold;
+}
+
+#food-title{
+    color: green;
+}
+
+/* class er vitor er class select  */
+.food .forigen{
+    font-weight: 700;
+    color: deeppink;
+}
+
+/* all section style here */
+.section-card{
+    background-color: yellow;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 5px;
+}
